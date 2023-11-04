@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Rana (@ar-rana)
 - 🌱 I’m currently learning about how to contribute in Open Source
-- 💞️ I’m looking to collaborate on Open Sourec projects
+- 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me https://www.linkedin.com/in/-aryan-rana
 
 <!---
