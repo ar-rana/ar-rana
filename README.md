@@ -123,9 +123,7 @@
   /><img width="12" />
 
 </p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-rana&show_icons=true&locale=en" alt="ar-rana" /></p> -->
-
 
 <!---
 ar-rana/ar-rana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
