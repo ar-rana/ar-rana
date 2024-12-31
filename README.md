@@ -17,8 +17,8 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,spring,express,nodejs,java,python,mysql,postgresql,firebase,mongodb" alt="Skills">
-  <img align="center" src="https://skillicons.dev/icons?i=git,github,docker" alt="Skills">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,spring,express,nodejs,java,python,mysql,postgresql,firebase,docker" alt="Skills">
+  <img align="center" src="https://skillicons.dev/icons?i=git,github" alt="Skills">
 </p>
 
 ---
