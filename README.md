@@ -10,14 +10,14 @@
 <h3 align="left" font="bold">Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/-aryan-rana" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+    <img align="center" target="_blank" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,spring,express,nodejs,java,python,mysql,postgresql,firebase,docker" alt="Skills">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,spring,express,nodejs,java,python,mysql,postgresql,firebase,docker" alt="Skills">
   <img align="center" src="https://skillicons.dev/icons?i=git,github" alt="Skills">
 </p>
 
