@@ -2,7 +2,7 @@
   <img src="GitHub-page.png" alt="Hi 👋, I'm Aryan Rana(@ar-rana)">
 </h1>
 
-- 🌱 I’m currently learning **Java** and **Cloud Technologies**  
+- 🌱 I’m currently learning **Cloud Technologies**  
 - 💞️ I’m looking to work on **Open Source Projects** and **Internships**
 
 ---
