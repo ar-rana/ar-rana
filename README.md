@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,spring,express,nodejs,java,mysql,postgresql,firebase,docker" alt="Skills">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,spring,express,nodejs,java,mysql,postgresql,firebase,docker,postman" alt="Skills">
   <img align="center" src="https://skillicons.dev/icons?i=git,github" alt="Skills">
 </p>
 
