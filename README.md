@@ -2,7 +2,7 @@
   <img src="GitHub-page.png" alt="Hi 👋, I'm Aryan Rana(@ar-rana)">
 </h1>
 
-- 🌱 I’m currently learning **Cloud Technologies**  
+- 🌱 I’m currently learning **Cloud Technologies**
 - 💞️ I’m looking to work on **Open Source Projects** and **Internships**
 
 ---
@@ -23,22 +23,13 @@
 
 ---
 
-<p>
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ar-rana&"
-      alt="ar-rana"
-    />
-</p>
+  <p align="center">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-rana&theme=midnight-purple&hide_border=true" alt="GitHub stats for Aryan Rana">
+  </p>
 
-<!--- 
+<!---
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ar-rana&show_icons=true&locale=en" alt="GitHub stats for Aryan Rana">
 </p>
 
 ---
-
-<!--- 
-ar-rana/ar-rana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
