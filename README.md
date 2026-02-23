@@ -17,14 +17,18 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,redux,spring,express,nodejs,java,mysql,postgresql,firebase,azure,golang,git,github,bitbucket,docker,postman,maven,redis,vscode" alt="Skills">
+  <!-- skillicons does not have n8n  -->
+  <!-- <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,redux,spring,express,nodejs,java,mysql,postgresql,firebase,azure,golang,git,github,bitbucket,docker,postman,maven,redis,vscode" alt="Skills"> -->
+  <img align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,javascript,typescript,tailwind,react,redux,spring,express,nodejs,java,mysql,postgresql,firebase,azure,golang,git,github,bitbucket,docker,postman,maven,redis,vscode,n8n" alt="Skills">
 </p>
 
 ---
 
   <p align="center">
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-rana&theme=midnight-purple&hide_border=true" alt="GitHub stats for Aryan Rana">
+    <!-- <img width="37%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=github_dark" alt="GitHub Stats" /> -->
   </p>
+  
 
 <!---
 <p align="center">
