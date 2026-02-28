@@ -19,7 +19,7 @@
 <p align="center">
   <!-- skillicons does not have n8n  -->
   <!-- <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,redux,spring,express,nodejs,java,mysql,postgresql,firebase,azure,golang,git,github,bitbucket,docker,postman,maven,redis,vscode" alt="Skills"> -->
-  <img align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,javascript,typescript,tailwind,react,redux,spring,express,nodejs,java,mysql,postgresql,firebase,azure,golang,git,github,bitbucket,docker,postman,maven,redis,vscode,n8n" alt="Skills">
+  <img align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,javascript,typescript,tailwind,nextjs,react,redux,spring,express,nodejs,java,mysql,postgresql,firebase,azure,golang,git,github,bitbucket,docker,postman,maven,redis,vscode,n8n" alt="Skills">
 </p>
 
 ---
