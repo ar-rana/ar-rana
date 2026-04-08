@@ -26,7 +26,7 @@
 
   <p align="center">
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-rana&theme=midnight-purple&hide_border=true" alt="GitHub stats for Aryan Rana">
-    <img width="39.5%" src="https://git-stats.shores.cv/api/top-langs/?username=ar-rana&theme=midnight-purple&hide_border=true&layout=compact" />
+    <img width="39.5%" src="https://git-stats.shores.cv/api/top-langs/?username=ar-rana&theme=midnight-purple&hide_border=true&layout=compact&hide=html" />
   </p>
   
 
