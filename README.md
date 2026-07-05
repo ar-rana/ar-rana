@@ -3,7 +3,8 @@
 </h1>
 
 - 🌱 I’m currently learning **Cloud Technologies**
-- 💞️ I’m looking to work on **Open Source Projects** and **Internships**
+- 💞️ I’m looking to work on **Open Source Projects**
+- 💻 I like distributed systems and building SaaS.
 
 ---
 
